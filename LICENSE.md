@@ -1,4 +1,4 @@
-# 
+# New KeePass extensions for Mac OS | Native KeePass extensions for PC Windows. Featuring custom themes and tracker blocker — optimized for maximum performance on every platform.
 
 
 
